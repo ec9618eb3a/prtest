@@ -1,3 +1,3 @@
 # prtest
 
-o test
+test edit 1
